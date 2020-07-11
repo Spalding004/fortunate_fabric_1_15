@@ -1,14 +1,18 @@
 package com.misterspalding.fortunate;
 
+import com.misterspalding.fortunate.inits.ItemDec;
 import net.fabricmc.api.ModInitializer;
+import net.minecraft.item.Item;
 
 public class HowFortunate implements ModInitializer {
+	
+	public static String MOD_ID = "fortunate";
+	
+	
 	@Override
 	public void onInitialize() {
-		// This code runs as soon as Minecraft is in a mod-load-ready state.
-		// However, some things (like resources) may still be uninitialized.
-		// Proceed with mild caution.
+		ItemDec.registerItems();
 
-		System.out.println("Hello Fabric world!");
+	
 	}
 }

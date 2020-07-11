@@ -1,0 +1,64 @@
+{
+    "item.fortunate.iron_chunk": "Iron Ore Chunk",
+    "item.fortunate.gold_chunk": "Gold Ore Chunk",
+    
+    "item.fortunate.copper_chunk": "Copper Ore Chunk",
+    
+    "item.fortunate.copper_ingot": "Copper Ingot",
+    
+    "item.fortunate.tin_chunk": "Tin Ore Chunk",
+    
+    "item.fortunate.tin_ingot": "Tin Ingot",
+    
+    "item.fortunate.platinum_chunk": "Platinum Ore Chunk",
+    
+    "item.fortunate.platinum_ingot": "Platinum Ingot",
+    
+    "item.fortunate.silver_chunk": "Silver Ore Chunk",
+    
+    "item.fortunate.silver_ingot": "Silver Ingot",
+    
+    "item.fortunate.nickel_chunk": "Nickel Ore Chunk",
+    
+    "item.fortunate.nickel_ingot": "Nickel Ingot",
+    
+    "item.fortunate.lead_chunk": "Lead Ore Chunk",
+    
+    "item.fortunate.lead_ingot": "Lead Ingot",
+    
+    "item.fortunate.cobalt_chunk": "Cobalt Ore Chunk",
+    
+    "item.fortunate.cobalt_ingot": "Cobalt Ingot",
+    
+    "item.fortunate.osmium_chunk": "Osmium Ore Chunk",
+    
+    "item.fortunate.osmium_ingot": "Osmium Ingot",
+    
+    "item.fortunate.aluminum_chunk": "Aluminum Ore Chunk",
+    
+    "item.fortunate.aluminum_ingot": "Aluminum Ingot",
+    
+    "item.fortunate.zinc_chunk": "Zinc Ore Chunk",
+    
+    "item.fortunate.zinc_ingot": "Zinc Ingot",
+    
+    "item.fortunate.uranium_chunk": "Uranium Ore Chunk",
+    
+    "item.fortunate.uranium_ingot": "Uranium Ingot",
+    
+    "item.fortunate.bismuth_chunk": "Bismuth Ore Chunk",
+    
+    "item.fortunate.bismuth_ingot": "Bismuth Ingot",
+    
+     "item.fortunate.bauxite_chunk": "Bauxite Ore Chunk",
+     
+     "item.fortunate.tungsten_chunk": "Tungsten Ore Chunk",
+     
+     "item.fortunate.tungsten_ingot": "Tungsten Ingot",
+     
+     "item.fortunate.mythril_chunk" : "Mithril Chunk",
+     
+     "item.fortunate.mythril_ingot" : "Mithril Ingot",
+  
+    "itemGroup.fortunate.mod_creative_tab": "How Fortunate!"
+}
