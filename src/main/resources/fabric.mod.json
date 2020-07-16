@@ -3,8 +3,8 @@
   "id": "fortunate",
   "version": "${version}",
 
-  "name": "Example Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "How Fortunate!",
+  "description": "Fortunizes the output of your basic metal ores!",
   "authors": [
     "Me!"
   ],
@@ -14,7 +14,7 @@
   },
 
   "license": "CC0-1.0",
-  "icon": "assets/modid/icon.png",
+  "icon": "assets/fortunate/hf_fabric.png",
 
   "environment": "*",
   "entrypoints": {

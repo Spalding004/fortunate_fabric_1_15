@@ -6,7 +6,7 @@
   "mixins": [
   ],
   "client": [
-    "ExampleMixin"
+    "FortunizeMixin"
   ],
   "injectors": {
     "defaultRequire": 1
